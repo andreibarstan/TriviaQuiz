@@ -6,6 +6,11 @@
 This is a quiz application that uses an API endpoint (OPEN Trivia database) to access various quiz questions.
 The app provides interaction through its GUI built in Python using the object-oriented interface "Tkinter".
 
+*Quiz app screenshot
+<div style="text-align: center;">
+    <img width="350" height="520" src="./screenshots/Menu.jpg">
+</div>
+
 ## Getting Started
 
 1. Clone the repository by entering the following command in your IDE terminal:
